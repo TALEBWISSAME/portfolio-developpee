@@ -23,3 +23,6 @@ npm run preview
 3. Dans GitHub, choisir la branche `gh-pages` comme source Pages.
 
 Les visuels conceptuels des projets peuvent être remplacés ultérieurement par de vraies captures d’écran.
+
+
+Test Pull Request pour GitHub
